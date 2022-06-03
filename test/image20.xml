@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1.tanah</folder>
+	<filename>image20.jpg</filename>
+	<path>C:\Users\rondi\Documents\S10_DL\1.Gesture Bahasa isyarat\2\filter\1.tanah\image20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>380</ymin>
+			<xmax>684</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
