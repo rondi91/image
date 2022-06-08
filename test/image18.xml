@@ -1,7 +1,7 @@
 <annotation>
-	<folder>1.tanah</folder>
+	<folder>1.TANAH</folder>
 	<filename>image18.jpg</filename>
-	<path>C:\Users\rondi\Documents\S10_DL\1.Gesture Bahasa isyarat\2\filter\1.tanah\image18.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\dataset_image bahasa isyarat\filter\1.TANAH\image18.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tanah</name>
+		<name>TANAH</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
-			<ymin>427</ymin>
-			<xmax>681</xmax>
-			<ymax>720</ymax>
+			<xmin>91</xmin>
+			<ymin>476</ymin>
+			<xmax>760</xmax>
+			<ymax>712</ymax>
 		</bndbox>
 	</object>
 </annotation>

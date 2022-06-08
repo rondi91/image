@@ -1,0 +1,38 @@
+<annotation>
+	<folder>3.TIDAK KU LUPAKAN</folder>
+	<filename>image61.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\dataset_image bahasa isyarat\filter\3.TIDAK KU LUPAKAN\image61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TIDAK KU LUPAKAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>19</ymin>
+			<xmax>546</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TIDAK KU LUPAKAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>13</ymin>
+			<xmax>601</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>
