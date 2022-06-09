@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2.AIR</folder>
+	<filename>image23.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\dataset_image bahasa isyarat\filter\2.AIR\image23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AIR</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>322</ymin>
+			<xmax>745</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

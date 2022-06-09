@@ -1,7 +1,7 @@
 <annotation>
-	<folder>18.KU</folder>
-	<filename>image185.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\dataset_image bahasa isyarat\filter\18.KU\image185.jpg</path>
+	<folder>1.TANAH</folder>
+	<filename>image10.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\dataset_image bahasa isyarat\filter\1.TANAH\image10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>KU</name>
+		<name>TANAH</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>136</xmin>
-			<ymin>479</ymin>
-			<xmax>552</xmax>
+			<xmin>72</xmin>
+			<ymin>455</ymin>
+			<xmax>763</xmax>
 			<ymax>720</ymax>
 		</bndbox>
 	</object>
