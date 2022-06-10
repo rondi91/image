@@ -1,3 +1,7 @@
 git add .
 git commit -m 'tarin ku dan tidak kulupakan'
 git push
+
+
+
+update 
