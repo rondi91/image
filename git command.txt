@@ -1,5 +1,5 @@
 git add .
-git commit -m 'tarin ku dan tidak kulupakan'
+git commit -m 'upload new'
 git push
 
 
