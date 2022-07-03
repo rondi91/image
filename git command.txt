@@ -1,5 +1,5 @@
 git add .
-git commit -m 'mengganti generate tf record'
+git commit -m 'DAAST  GAMBAR 10'
 git push
 
 
