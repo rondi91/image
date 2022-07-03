@@ -1,7 +1,7 @@
 <annotation>
-	<folder>6.KAN</folder>
+	<folder>AKAN</folder>
 	<filename>image375.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\9new\6.KAN\image375.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\AKAN\image375.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>KAN</name>
+		<name>AKAN</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>76</xmin>
-			<ymin>155</ymin>
-			<xmax>420</xmax>
-			<ymax>720</ymax>
+			<xmin>202</xmin>
+			<ymin>79</ymin>
+			<xmax>397</xmax>
+			<ymax>567</ymax>
 		</bndbox>
 	</object>
 </annotation>

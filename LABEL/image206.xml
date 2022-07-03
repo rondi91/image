@@ -1,7 +1,7 @@
 <annotation>
-	<folder>4.KULUPAKAN</folder>
+	<folder>LUPAKAN</folder>
 	<filename>image206.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\9new\4.KULUPAKAN\image206.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\LUPAKAN\image206.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>KU LUPAKAN</name>
+		<name>LUPAKAN</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>114</xmin>
-			<ymin>38</ymin>
-			<xmax>670</xmax>
-			<ymax>490</ymax>
+			<xmin>53</xmin>
+			<ymin>119</ymin>
+			<xmax>397</xmax>
+			<ymax>432</ymax>
 		</bndbox>
 	</object>
 </annotation>

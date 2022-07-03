@@ -1,7 +1,7 @@
 <annotation>
-	<folder>8.SELAMA</folder>
+	<folder>SELAMA</folder>
 	<filename>image537.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\9new\8.SELAMA\image537.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\SELAMA\image537.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>288</xmin>
-			<ymin>386</ymin>
-			<xmax>606</xmax>
+			<xmin>286</xmin>
+			<ymin>355</ymin>
+			<xmax>582</xmax>
 			<ymax>720</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>9.HIDUP</folder>
+	<folder>HIDUP</folder>
 	<filename>image671.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\9new\9.HIDUP\image671.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\HIDUP\image671.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>HIDUP</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>150</xmin>
-			<ymin>126</ymin>
-			<xmax>384</xmax>
-			<ymax>720</ymax>
+			<xmin>88</xmin>
+			<ymin>77</ymin>
+			<xmax>423</xmax>
+			<ymax>523</ymax>
 		</bndbox>
 	</object>
 </annotation>
