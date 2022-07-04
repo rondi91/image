@@ -1,7 +1,8 @@
 git add .
-git commit -m 'DAAST  GAMBAR 10'
+git commit -m 'dataset image 10 add tanah'
 git push
+ls
 
 
 
-update 
+ 
