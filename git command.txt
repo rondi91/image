@@ -1,5 +1,5 @@
 git add .
-git commit -m 'dataset image 10 add tanah'
+git commit -m 'updating data testing'
 git push
 ls
 
