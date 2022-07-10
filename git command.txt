@@ -1,6 +1,7 @@
 git add .
-git commit -m 'updating data testing'
+git commit -m 'perbaikan aku'
 git push
+
 ls
 
 
