@@ -14,13 +14,13 @@
 	<object>
 		<name>TANAH</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>248</xmin>
-			<ymin>446</ymin>
+			<ymin>431</ymin>
 			<xmax>571</xmax>
-			<ymax>720</ymax>
+			<ymax>705</ymax>
 		</bndbox>
 	</object>
 </annotation>

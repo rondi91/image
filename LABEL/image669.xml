@@ -14,13 +14,13 @@
 	<object>
 		<name>HIDUP</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>90</xmin>
 			<ymin>77</ymin>
-			<xmax>430</xmax>
-			<ymax>609</ymax>
+			<xmax>432</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 </annotation>

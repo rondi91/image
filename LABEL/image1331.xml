@@ -14,13 +14,13 @@
 	<object>
 		<name>KALBU</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>374</xmin>
-			<ymin>425</ymin>
-			<xmax>643</xmax>
-			<ymax>644</ymax>
+			<ymin>319</ymin>
+			<xmax>716</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 </annotation>
