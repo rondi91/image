@@ -1,5 +1,5 @@
 git add .
-git commit -m 'perbaikan aku'
+git commit -m 'change label to all_dataset'
 git push
 
 ls
