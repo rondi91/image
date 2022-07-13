@@ -1,5 +1,5 @@
 git add .
-git commit -m 'change label to all_dataset'
+git commit -m 'add image dari testing'
 git push
 
 ls
