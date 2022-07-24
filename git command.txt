@@ -1,5 +1,5 @@
 git add .
-git commit -m 'add image dari testing'
+git commit -m 'CHANGE IMAGE TANAH ONLY'
 git push
 
 ls
