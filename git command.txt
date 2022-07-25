@@ -1,5 +1,5 @@
 git add .
-git commit -m 'CHANGE IMAGE HARGAI'
+git commit -m 'CHANGE IMAGE BIARPUN
 git push
 
 ls
