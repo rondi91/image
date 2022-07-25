@@ -1,7 +1,7 @@
 <annotation>
-	<folder>BIARPUN</folder>
+	<folder>BIARPUN_2</folder>
 	<filename>image791.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\BIARPUN\image791.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\BIARPUN_2\image791.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,20 @@
 		<bndbox>
 			<xmin>110</xmin>
 			<ymin>404</ymin>
-			<xmax>773</xmax>
-			<ymax>662</ymax>
+			<xmax>388</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BIARPUN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>401</ymin>
+			<xmax>778</xmax>
+			<ymax>679</ymax>
 		</bndbox>
 	</object>
 </annotation>

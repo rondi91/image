@@ -1,5 +1,5 @@
 git add .
-git commit -m 'CHANGE IMAGE BIARPUN
+git commit -m 'PERBAIKAN IMAGE BIARPUN VERSI PISAH'
 git push
 
 ls
