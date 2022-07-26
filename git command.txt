@@ -1,5 +1,5 @@
 git add .
-git commit -m 'PERBAIKAN IMAGE HIDUP'
+git commit -m 'ADD 8 CLASS KOSA KATA'
 git push
 
 ls
