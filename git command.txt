@@ -1,5 +1,5 @@
 git add .
-git commit -m 'ADD 8 CLASS KOSA KATA2'
+git commit -m 'add image cinta'
 git push
 
 ls
