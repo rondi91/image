@@ -1,5 +1,5 @@
 git add .
-git commit -m 'add image cinta'
+git commit -m 'add image AIR'
 git push
 
 ls
