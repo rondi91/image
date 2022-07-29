@@ -1,5 +1,5 @@
 git add .
-git commit -m 'add image 3 CLASS JAUH'
+git commit -m 'add VIDEO TRAIN DEK UL'
 git push
 
 ls
