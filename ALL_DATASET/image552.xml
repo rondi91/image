@@ -1,7 +1,7 @@
 <annotation>
-	<folder>SELAMA</folder>
+	<folder>MINGGU</folder>
 	<filename>image552.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\SELAMA\image552.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\4.VIDEO TRAIN\DATASET IMAGE HARI\MINGGU\image552.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>SELAMA</name>
+		<name>MINGGU</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>355</xmin>
-			<ymin>467</ymin>
-			<xmax>610</xmax>
-			<ymax>717</ymax>
+			<xmin>482</xmin>
+			<ymin>346</ymin>
+			<xmax>735</xmax>
+			<ymax>637</ymax>
 		</bndbox>
 	</object>
 </annotation>
