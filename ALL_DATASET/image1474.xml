@@ -1,7 +1,7 @@
 <annotation>
 	<folder>TANAH</folder>
 	<filename>image1474.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new - 2\TANAH\image1474.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\TANAH\image1474.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>172</xmin>
-			<ymin>402</ymin>
-			<xmax>609</xmax>
+			<xmin>220</xmin>
+			<ymin>421</ymin>
+			<xmax>542</xmax>
 			<ymax>720</ymax>
 		</bndbox>
 	</object>

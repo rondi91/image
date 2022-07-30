@@ -1,7 +1,7 @@
 <annotation>
 	<folder>AIR</folder>
 	<filename>image78.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new - 2\AIR\image78.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\AIR\image78.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>343</xmin>
+			<xmin>353</xmin>
 			<ymin>324</ymin>
 			<xmax>655</xmax>
-			<ymax>579</ymax>
+			<ymax>559</ymax>
 		</bndbox>
 	</object>
 </annotation>

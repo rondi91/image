@@ -1,7 +1,7 @@
 <annotation>
 	<folder>CINTA</folder>
 	<filename>image1795.jpg</filename>
-	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new - 2\CINTA\image1795.jpg</path>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\2.dataset_image bahasa isyarat\NEW\10new\CINTA\image1795.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>272</xmin>
-			<ymin>359</ymin>
-			<xmax>621</xmax>
-			<ymax>546</ymax>
+			<xmin>305</xmin>
+			<ymin>360</ymin>
+			<xmax>608</xmax>
+			<ymax>533</ymax>
 		</bndbox>
 	</object>
 </annotation>
