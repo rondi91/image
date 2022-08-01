@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SABTU</folder>
+	<filename>image_DEK_UL549.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\4.VIDEO TRAIN\DATASET BOJO\HASIL_RECORD_DEK_UL - PERHARI\SABTU\image_DEK_UL549.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SABTU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>698</ymin>
+			<xmax>228</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

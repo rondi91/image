@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JUMAT</folder>
+	<filename>image_DEK_UL671.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\4.VIDEO TRAIN\DATASET BOJO\HASIL_RECORD_DEK_UL - PERHARI\JUMAT\image_DEK_UL671.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUMAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>720</ymin>
+			<xmax>268</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

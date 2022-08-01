@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KAMIS</folder>
+	<filename>image_DEK_UL1470.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\4.VIDEO TRAIN\DATASET BOJO\HASIL_RECORD_DEK_UL - PERHARI\KAMIS\image_DEK_UL1470.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KAMIS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>588</ymin>
+			<xmax>417</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>
