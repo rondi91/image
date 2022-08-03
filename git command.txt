@@ -1,5 +1,5 @@
 git add .
-git commit -m 'add testing image'
+git commit -m 'remove image youtube'
 git push
 
 ls
