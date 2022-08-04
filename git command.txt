@@ -1,5 +1,5 @@
 git add .
-git commit -m 'CHANGE FOLDER SENIN-MINGGU'
+git commit -m 'UPDATE IMAGE TEST'
 git push
 
 ls
