@@ -1,5 +1,5 @@
 git add .
-git commit -m 'add dataset rabu'
+git commit -m 'upload image add gambar 1'
 git push
 
 ls
