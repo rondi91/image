@@ -1,5 +1,5 @@
 git add .
-git commit -m 'upload image add gambar 1'
+git commit -m 'CHANGE FOLDER SENIN-MINGGU'
 git push
 
 ls
