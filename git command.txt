@@ -1,5 +1,5 @@
 git add .
-git commit -m 'upload image add gambar_1'
+git commit -m 'change image rabu'
 git push
 
 ls
