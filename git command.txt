@@ -1,5 +1,5 @@
 git add .
-git commit -m 'change image rabu_3'
+git commit -m 'add folder output_deteksi_image'
 git push
 
 ls
