@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JUMAT</folder>
+	<filename>image456.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\4.VIDEO TRAIN\DATASET IMAGE HARI\JUMAT\image456.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUMAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>360</ymin>
+			<xmax>667</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

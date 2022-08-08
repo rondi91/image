@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SELASA</folder>
+	<filename>image346.jpg</filename>
+	<path>D:\2.KULIAH\7.GARAP SKRIPSI MEI 2022\6.Gesture Bahasa isyarat code\4.VIDEO TRAIN\DATASET IMAGE HARI\SELASA\image346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SELASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>247</ymin>
+			<xmax>712</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>
